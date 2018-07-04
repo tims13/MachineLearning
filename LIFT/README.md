@@ -7,6 +7,8 @@ LIFT是一个multi-label learning的方法，阅读Min-Ling Zhang的关于LIFT�
 
 代码没有经过很多测试，如果出现错误，请联系我，感谢指教！
 
+另外可以查看 [我blog上对该算法的总结](https://blog.csdn.net/timso1997/article/details/80920902)
+
 
 # Source
 Paper：
